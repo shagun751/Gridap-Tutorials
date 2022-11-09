@@ -1,6 +1,6 @@
 deps/build.log
 deps/deps.jl
-notebooks
+#notebooks
 Manifest.toml
 .ipynb_checkpoints/
 *.vtu
